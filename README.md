@@ -12,6 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/divyamtayal18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="divyamtayal18" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/daretobedifferent18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="daretobedifferent18" height="30" width="40" /></a>
 <a href="https://fb.com/daretobedifferent18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="daretobedifferent18" height="30" width="40" /></a>
 </p>
 
