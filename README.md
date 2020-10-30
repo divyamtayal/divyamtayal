@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Open Event Frontend](https://github.com/fossasia/open-event-frontend)
 
-- 🌱 I’m currently learning **Ember, React**
+- 🌱 I’m currently learning **Ember, React, Flask**
 
 - 💬 Ask me about **Nodejs, Expressjs, Mongodb, Reactjs**
 
