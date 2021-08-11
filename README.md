@@ -1,22 +1,66 @@
-<h1 align="center">Hi 👋, I'm Divyam</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Divyam Tayal</h1>
+<!-- <h3 align="center">A passionate frontend developer from India</h3> -->
+<p align="center">
+Experienced Software Developer adept in bringing forth expertise in design, installation, testing and maintenance of software systems. Equipped with a diverse and promising skill-set. <br>🚩 <b>Learning new things everyday.</b>
+</p>
+<p align="center">
+  <img src="https://magiccopy.xyz/assets/images/hadder.gif" />
+</p>
+<br>
 
-- 🌱 I’m currently learning **react-redux, jest, Machine learning**
+<h3 align="center">Connect with me</h3>
 
-- 💬 Ask me about **react, express, mongodb**
-
-- 📫 How to reach me **daretobedifferent10920@gmail.com**
-
-- ⚡ Fun fact **Not sure that if tomorrow means today or tomorrow**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/divyamtayal18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="divyamtayal18" height="30" width="40" /></a>
-<a href="https://instagram.com/daretobedifferent18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daretobedifferent18" height="30" width="40" /></a>
+<p align="center">
+   <a href="https://instagram.com/daretobedifferent18">
+		<img src="https://img.shields.io/badge/Linkedin-2088FF?&style=for-the-badge&logo=linkedin&logoColor=white" />
+	</a>
+	<a href="https://gist.github.com/daretobedifferent18">
+		<img src="https://img.shields.io/badge/-Gists-000?style=for-the-badge&logo=Github&logoColor=white" />
+	</a>
+	<a href="mailto:daretobedifferent10920@gmail.com">
+		<img src="https://img.shields.io/badge/Gmail-FE7A16?&style=for-the-badge&logo=gmail&logoColor=white" />
+	</a>
+	<a href="https://instagram.com/daretobedifferent18">
+		<img src="https://img.shields.io/badge/instagram-e60058?&style=for-the-badge&logo=instagram&logoColor=white" />
+	</a>
+  	<a href="https://twitter.com/divyamtayal18">
+		<img src="https://img.shields.io/badge/Twitter-00cbe6?style=for-the-badge&logo=twitter&logoColor=white" />
+	</a>
+</p>
+<br>
+<h3 align="center">Some Technologies, Languages, Frameworks and others<h3/>
+  
+<p align="center">
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/React-a5f2f1?style=for-the-badge&logo=react&logoColor=black" alt="react" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/Redux-0b0957?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/PHP-5d59cf?style=for-the-badge&logo=php&logoColor=white" alt="php" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/django-067a29?&style=for-the-badge&logo=django&logoColor=white" alt="django" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/Python-008094?&style=for-the-badge&logo=python&logoColor=white" alt="python" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/C++-a31d8f?&style=for-the-badge&logo=cplusplus&logoColor=white" alt="c++" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/Typescript-00000F?style=for-the-badge&logo=typescript&logoColor=white" alt="ts" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/Jest-ff8800?style=for-the-badge&logo=jest&logoColor=white" alt="jest" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Nodejs-197006?&style=for-the-badge&logo=node.js&logoColor=white" alt="node" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/github_actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="githubactions" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />&nbsp;&nbsp;
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://emberjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ember/ember-original-wordmark.svg" alt="ember" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daretobedifferent18&show_icons=true&locale=en" alt="daretobedifferent18" /></p>
+  <br>
+<p align="center">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=daretobedifferent18&show_icons=true&theme=merko&count_private=true" alt="JayB's github stats" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daretobedifferent18&theme=merko&layout=compact" alt="JayB's github top languages" />
+</p>
+<p align="center">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Divyam's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=daretobedifferent18&theme=merko&hide_border=true"/>
+  <br>
+  <br>
+<!--   <p align="center"> If you can dream it, you can do it🔥 </p> -->
+  <p align="center"> dare To be Different </p>
+</p>
 
