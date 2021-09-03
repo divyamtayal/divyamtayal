@@ -1,3 +1,4 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=daretobedifferent18" alt="daretobedifferent18" /> </p>
 <h1 align="center">Hi 👋, I'm Divyam Tayal</h1>
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 <p align="center">
@@ -45,7 +46,7 @@ Experienced Software Developer adept in bringing forth expertise in design, inst
 	<img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/Jest-ff8800?style=for-the-badge&logo=jest&logoColor=white" alt="jest" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Nodejs-197006?&style=for-the-badge&logo=node.js&logoColor=white" alt="node" />&nbsp;&nbsp;
+  	<img src="https://img.shields.io/badge/Nodejs-197006?&style=for-the-badge&logo=node.js&logoColor=white" alt="node" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/github_actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="githubactions" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />&nbsp;&nbsp;
@@ -57,7 +58,7 @@ Experienced Software Developer adept in bringing forth expertise in design, inst
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daretobedifferent18&theme=merko&layout=compact" alt="JayB's github top languages" />
 </p>
 <p align="center">
-    <img  height="150em" alt="Divyam's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=daretobedifferent18&theme=merko&hide_border=true"/>
+    <img  height="150em" alt="Divyam's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=daretobedifferent18&theme=merko"/>
   <br>
   <br>
 <!--   <p align="center"> If you can dream it, you can do it🔥 </p> -->
