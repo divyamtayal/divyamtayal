@@ -5,7 +5,7 @@
 Experienced Software Developer adept in bringing forth expertise in design, installation, testing and maintenance of software systems. Equipped with a diverse and promising skill-set. <br>🚩 <b>Learning new things everyday.</b>
 </p>
 <p align="center">
-  <img src="https://magiccopy.xyz/assets/images/hadder.gif" />
+  <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="75%"/>
 </p>
 <br>
 
