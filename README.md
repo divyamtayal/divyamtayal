@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=daretobedifferent18" alt="daretobedifferent18" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=DivyamTayal" alt="DivyamTayal" /> </p>
 <h1 align="center">Hi 👋, I'm Divyam Tayal</h1>
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 <p align="center">
@@ -90,11 +90,11 @@ Experienced Software Developer adept in bringing forth expertise in design, inst
 
   <br>
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=daretobedifferent18&show_icons=true&theme=merko&count_private=true" alt="JayB's github stats" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daretobedifferent18&theme=merko&layout=compact" alt="JayB's github top languages" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DivyamTayal&show_icons=true&theme=merko&count_private=true" alt="JayB's github stats" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyamTayal&theme=merko&layout=compact" alt="JayB's github top languages" />
 </p>
 <p align="center">
-    <img  height="150em" alt="Divyam's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=daretobedifferent18&theme=merko"/>
+    <img  height="150em" alt="Divyam's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DivyamTayal&theme=merko"/>
   <br>
   <br>
 <!--   <p align="center"> If you can dream it, you can do it🔥 </p> -->
