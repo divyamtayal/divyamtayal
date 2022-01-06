@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=DivyamTayal" alt="DivyamTayal" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=daretobedifferent18" alt="DivyamTayal" /> </p>
 <h1 align="center">Hi 👋, I'm Divyam Tayal</h1>
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 <p align="center">
