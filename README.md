@@ -6,7 +6,6 @@ Experienced Software Developer adept in bringing forth expertise in design, inst
 </p>
 <p align="center">
   <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="75%"/>
-</p>
 <br>
 
 <h3 align="center">Connect with me</h3>
@@ -24,7 +23,7 @@ Experienced Software Developer adept in bringing forth expertise in design, inst
 	<a href="https://instagram.com/daretobedifferent18">
 		<img src="https://img.shields.io/badge/instagram-e60058?&style=for-the-badge&logo=instagram&logoColor=white" />
 	</a>
-  	<a href="https://twitter.com/divyamtayal18">
+  	<a href="https://twitter.com/daretpbedifferent18">
 		<img src="https://img.shields.io/badge/Twitter-00cbe6?style=for-the-badge&logo=twitter&logoColor=white" />
 	</a>
 </p>
@@ -90,11 +89,11 @@ Experienced Software Developer adept in bringing forth expertise in design, inst
 
   <br>
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DivyamTayal&show_icons=true&theme=merko&count_private=true" alt="JayB's github stats" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyamTayal&theme=merko&layout=compact" alt="JayB's github top languages" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=daretobedifferent18&show_icons=true&theme=merko&count_private=true" alt="JayB's github stats" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daretobedifferent18&theme=merko&layout=compact" alt="JayB's github top languages" />
 </p>
 <p align="center">
-    <img  height="150em" alt="Divyam's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DivyamTayal&theme=merko"/>
+    <img  height="150em" alt="Divyam's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=daretobedifferent18&theme=merko"/>
   <br>
   <br>
 <!--   <p align="center"> If you can dream it, you can do it🔥 </p> -->
