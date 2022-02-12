@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Divyam Tayal</h1>
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 <p align="center">
-Experienced Software Developer adept in bringing forth expertise in design, installation, testing and maintenance of software systems. Equipped with a diverse and promising skill-set. <br>🚩 <b>Learning new things everyday.</b>
+Experienced Software Developer adept in bringing forth expertise in design, installation, testing and maintenance of software systems. Equipped with a diverse and promising skill-set. <br>🚩 <b>Learning new things everyday!</b>
 </p>
 <p align="center">
   <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="75%"/>
@@ -99,4 +99,3 @@ Experienced Software Developer adept in bringing forth expertise in design, inst
 <!--   <p align="center"> If you can dream it, you can do it🔥 </p> -->
   <p align="center"><i><b>dare To be Different<b><i> </p>
 </p>
-
