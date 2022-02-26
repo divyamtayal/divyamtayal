@@ -93,8 +93,8 @@ Experienced Software Developer adept in bringing forth expertise in design, inst
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daretobedifferent18&theme=merko&layout=compact" alt="JayB's github top languages" />
 </p>
 <p align="center">
-    <img  height="150em" alt="Divyam's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=daretobedifferent18&theme=merko"/>
-  <br>
+<!--     <img  height="150em" alt="Divyam's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=daretobedifferent18&theme=merko"/>
+  <br> -->
   <br>
 <!--   <p align="center"> If you can dream it, you can do it🔥 </p> -->
   <p align="center"><i><b>dare To be Different<b><i> </p>
