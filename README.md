@@ -89,8 +89,8 @@ Experienced Software Developer adept in bringing forth expertise in design, inst
 
   <br>
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=daretobedifferent18&show_icons=true&theme=merko&count_private=true" alt="JayB's github stats" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daretobedifferent18&theme=merko&layout=compact" alt="JayB's github top languages" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=divyamtayal&show_icons=true&theme=merko&count_private=true" alt="JayB's github stats" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyamtayal&theme=merko&layout=compact" alt="JayB's github top languages" />
 </p>
 <p align="center">
 <!--     <img  height="150em" alt="Divyam's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=daretobedifferent18&theme=merko"/>
